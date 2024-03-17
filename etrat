@@ -8,3 +8,5 @@ sdf
 sdfsa
 'f
 sa
+> $ node index.js
+\
